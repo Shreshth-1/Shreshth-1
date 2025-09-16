@@ -2,7 +2,7 @@
 
 **Hi, I'm _Shreshth_ — a tech‑first developer who builds full‑stack apps, 3D web experiences & infrastructure.**
 
-[![Pixel GIF](https://via.placeholder.com/720x200.png?text=PIXEL+GIF+PLACEHOLDER)](https://your-gif-link)
+[![Pixel GIF](https://via.placeholder.com/720x200.png?text=PIXEL+GIF+PLACEHOLDER)](working_guy.mp3)
 
 ---
 
