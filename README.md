@@ -64,8 +64,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN) 
-[![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/shreshth-tyagi-0b3644219/)) 
+[![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:shresthtyagi2004@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Shreshth-1?label=Follow&style=social)](https://github.com/Shreshth-1)
 
 </div>
