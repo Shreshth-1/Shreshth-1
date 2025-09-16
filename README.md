@@ -2,7 +2,7 @@
 
 **Hi, I'm _Shreshth_ — a tech‑first developer who builds full‑stack apps, 3D web experiences & infrastructure.**
 
-![Working Guy Demo](image.gif)
+![Working Guy Demo](IMG_7903.gif)
 
 ---
 
