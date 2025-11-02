@@ -1,6 +1,6 @@
 # Yo! Wassup 👾
 
-**Hey, I’m _Shreshth_ — your friendly, lame tech guy who’d rather solve bugs than read theorems or memorize definitions from textbooks🫠. I’m not the best on the transcript, but I’m usually the best at bringing skills, creativity, and fun energy to any team I join. Most of my projects are private (so don’t go hunting for commits 👀), but the impact I’ve made at every place I’ve worked is anything but hidden. I don’t take life too seriously, but when it’s time to build, I give it everything I’ve got.👾**
+**Hey, I’m _Shreshth_ — your friendly, lame tech guy who’d rather solve bugs than read theorems or memorize definitions from textbooks🫠. I’m not the best on the transcript, but I’m usually the best at bringing skills, creativity, and fun energy to any team I join. I don’t take life too seriously, but when it’s time to build, I give it everything I’ve got.👾**
 
 ![Working Guy Demo](workingGuy.gif)
 
@@ -29,6 +29,8 @@
 </p>
 
 
+---
+Most of my projects are private (so don’t go hunting for commits 👀), but the impact I’ve made at every place I’ve worked is anything but hidden✌🏼.
 ---
 
 ## 📫 Contact & Links
